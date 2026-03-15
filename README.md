@@ -3,7 +3,7 @@
 
 This repository contains my structured PostgreSQL practice covering fundamental, intermediate, and advanced SQL concepts. The goal is to strengthen database querying, database design, and query optimization skills through practical implementation.
 
----
+```
 
 ## Project Structure
 
@@ -67,7 +67,7 @@ postgresql.practice/
 └── README.md
 
 
----
+```
 
 ## Skills Demonstrated
 
